@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "自遊空間",
+  "base_artist": "GADORO",
+  "createdAt": "2025-12-17T13:46:01.289123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "自遊空間",
+      "artist": "GADORO",
+      "has_synced": true,
+      "path": "select/01_自遊空間_GADORO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "自遊空間 - Jiyukukan",
+      "artist": "GADORO",
+      "has_synced": true,
+      "path": "select/02_自遊空間_-_Jiyukukan_GADORO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "自遊空間",
+      "artist": "GADORO",
+      "has_synced": false,
+      "path": "select/pl_01_自遊空間_GADORO.txt"
+    }
+  ]
+}
